@@ -1,4 +1,4 @@
-# CryptoPilot - 
+# CryptoPilot 
 # About
 
 CryptoPilot is a web application built with React and Redux, designed to help users navigate and analyze the vast world of cryptocurrencies. It provides real-time comparisons of various cryptocurrencies based on their price, market capitalization, and daily changes. The application suggests potential investment options and offers the latest news updates related to cryptocurrencies, ensuring users stay informed and empowered in their investment decisions.
@@ -10,7 +10,7 @@ Features:
 - Latest news updates from the crypto industry
 - Responsive design for seamless viewing on any device
 
-# To see the project
+# To see the demo
 
 https://cryptopilot-as.netlify.app/
 
