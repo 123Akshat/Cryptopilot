@@ -1,34 +1,28 @@
-![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/103346687/232325650-144c8bd5-b496-4c5a-9689-9f3fbd084ce3.png)
-# Tourism-website
-
+# CryptoPilot - 
 # About
 
--This is a simple website
+CryptoPilot is a web application built with React and Redux, designed to help users navigate and analyze the vast world of cryptocurrencies. It provides real-time comparisons of various cryptocurrencies based on their price, market capitalization, and daily changes. The application suggests potential investment options and offers the latest news updates related to cryptocurrencies, ensuring users stay informed and empowered in their investment decisions.
 
--Pure HTML and CSS used
+Features:
+
+- Real-time cryptocurrency comparison
+- Investment suggestions based on financial metrics
+- Latest news updates from the crypto industry
+- Responsive design for seamless viewing on any device
 
 # To see the project
 
-https://simple-tourism-website.netlify.app/
+https://cryptopilot-as.netlify.app/
 
 # Preview
 
-
-https://user-images.githubusercontent.com/103346687/232326593-6a3a2ad4-4660-43cf-b11c-b409f7eb2f56.mp4
+<img width="959" alt="image" src="https://github.com/123Akshat/Cryptopilot/assets/103346687/a0aee5f9-0e0b-4101-9644-8c2f982e4919">
 
 # Snaps
 
-![1](https://user-images.githubusercontent.com/103346687/232325817-a1e526c5-0407-4cbb-8ee6-9d5048be9abe.JPG)
+<img width="959" alt="image" src="https://github.com/123Akshat/Cryptopilot/assets/103346687/03e53162-7a35-415e-9f39-b53138921d85">
+
+<img width="959" alt="image" src="https://github.com/123Akshat/Cryptopilot/assets/103346687/8c6a5211-3bf4-483f-9642-cda2d7bfcb91">
 
 
-![2](https://user-images.githubusercontent.com/103346687/232325825-73846223-b2a4-4016-8963-2302fbf29e12.JPG)
-
-
-![3](https://user-images.githubusercontent.com/103346687/232326084-8df5e51f-f40c-4482-8be4-0acb61a5a627.JPG)
-
-
-![4](https://user-images.githubusercontent.com/103346687/232326099-487c0e5f-7dd5-465b-bed3-24fcdbe03bea.JPG)
-
-
-![5](https://user-images.githubusercontent.com/103346687/232326105-8ab5d34f-42bd-4b29-8273-f1507f97dfd0.JPG)
 
