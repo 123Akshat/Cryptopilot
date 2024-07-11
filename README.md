@@ -24,5 +24,6 @@ https://cryptopilot-as.netlify.app/
 
 <img width="959" alt="image" src="https://github.com/123Akshat/Cryptopilot/assets/103346687/8c6a5211-3bf4-483f-9642-cda2d7bfcb91">
 
+![WhatsApp Image 2024-07-11 at 19 51 12_e83e4265](https://github.com/123Akshat/Cryptopilot/assets/103346687/b7688662-1633-41ed-aaeb-2a0b270723b9)
 
 
